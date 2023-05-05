@@ -11,7 +11,7 @@ A small weather web scrapping app that refreshes weather info automatically ever
 Created using the LAMP stack (Linux, Apache, MySQL, PHP) , Bash, Python, and TagSoup
 
 To Run:
-1) Download the parser.py file, sources.txt, weather.sh shell script, and all .php files.
+1) Download ALL files - the parser.py file, sources.txt, weather.sh shell script, my_data.sql, my_tables.sql, and all .php files.
 2) Download Apache
 3) Place all the downloaded .php files into your directory: /var/www/html
 (you can do this by running command: cd /var/www/html)
